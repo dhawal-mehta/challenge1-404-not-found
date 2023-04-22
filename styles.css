@@ -114,6 +114,7 @@ footer {
     flex-direction: column;
   }
   .content-stack {
+    padding: 0;
     width: 100%;
   }
   #image {
